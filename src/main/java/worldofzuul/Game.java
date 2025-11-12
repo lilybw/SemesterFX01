@@ -13,7 +13,7 @@ import java.util.ArrayList;
 
 public class Game implements Runnable{
 
-    //A Game by Alexander Birkwald, Emil Frederik Coyte Orland, Gustav Bundgaard Wanscher
+    //A Game by Alexander Birkwald, Emil Frederik Coyte Orland, lily Bundgaard Wanscher
 
     private final Parser parser;
 
